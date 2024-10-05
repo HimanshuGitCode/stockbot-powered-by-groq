@@ -17,7 +17,7 @@ export default function Error({ error, reset }: ErrorProps) {
       <div className="text-red-700 font-medium">Error: {error.message}</div>
       <div className="flex items-center mt-2">
         <a
-          href="www.google.com"
+          href="https://github.com/HimanshuGitCode/stockbot-powered-by-groq"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center text-sm text-red-800 hover:text-red-900"
